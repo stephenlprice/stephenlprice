@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on javascript or python projects.
 - at some point :surfer: I would love to learn more about gatsby.js and getting it hooked up to a headless wagtail CMS for blogging purposes.
 
-I might replace this site with the above mentioned gatsby/wagtail project, this is [my current portfolio.](https://stephenlprice.github.io/bootstrap-portfolio/).
+I might replace this site with the above mentioned gatsby/wagtail project, this is [my current portfolio.](https://github.com/stephenlprice/portfolio).
 
 <!--
 **stephenlprice/stephenlprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
