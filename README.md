@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about web development.
 - 🔭 I was previously employed as a Solutions Engineer in data visualization and API design.
 - :floppy_disk: I have experience with javascript, python, django, wagtail, bootstrap, openapi, docker, r & arduino.
 - :wrench: Tools I like to use include tableau, stoplight and postman.
