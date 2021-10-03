@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I was previously employed as a Solutions Engineer in data visualization and API design.
-- :floppy_disk: I have experience with javascript, python, django, wagtail, bootstrap, openapi, docker, r & arduino.
+- :floppy_disk: I have experience with javascript, python, django, wagtail, bootstrap, openapi & docker
 - :wrench: Tools I like to use include tableau, stoplight and postman.
 - Just living my best life and trying to ship :shipit: the best experiences possible.
 - :earth_americas: I love languages!
