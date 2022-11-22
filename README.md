@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I was previously employed as a Solutions Engineer in data visualization and API design.
-- :floppy_disk: I have experience with javascript, python, django, wagtail, bootstrap, openapi & docker
+- 🔭 Employed as a Solution Engineer @ Tableau Software (data visualization/embedded analytics) formerly @ Stoplight.io (API design)
+- :floppy_disk: I have experience with javascript & python (react, gatsby, node, flask, django, wagtail cms) as well as openapi & docker
 - :wrench: Tools I like to use include tableau, stoplight and postman.
 - Just living my best life and trying to ship :shipit: the best experiences possible.
 - :earth_americas: I love languages!
 - 👯 I’m looking to collaborate on javascript or python projects.
-- at some point :surfer: I would love to learn more about gatsby.js and getting it hooked up to a headless wagtail CMS for blogging purposes.
-
-I might replace [my current portfolio (Stelloprint)](https://stephenlprice.github.io/portfolio/) with the above mentioned gatsby/wagtail project.
 
 <!--
 **stephenlprice/stephenlprice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
